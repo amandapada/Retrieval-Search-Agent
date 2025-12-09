@@ -1,0 +1,6 @@
+.env
+venv 
+chromadb
+.agent/workflows
+poem.pdf
+report.pdf

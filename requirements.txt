@@ -1,0 +1,7 @@
+google-genai
+chromadb
+pypdf
+requests
+tavily-python
+python-dotenv
+ipykernel
