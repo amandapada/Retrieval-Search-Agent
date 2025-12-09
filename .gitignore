@@ -1,6 +1,6 @@
 .env
 venv 
-chroma_db
+chroma_db/
 .agent/workflows
 poem.pdf
 report.pdf
